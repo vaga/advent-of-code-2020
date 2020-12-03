@@ -3,7 +3,7 @@
 ## Output
 
 ```console
-node index.js
+$ node index.js
 Part 1: 638
 Part 2: 699
 ```
