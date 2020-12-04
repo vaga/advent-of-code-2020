@@ -1,4 +1,4 @@
-# Day 2: Toboggan Trajectory
+# Day 3: Toboggan Trajectory
 
 ## Output
 
