@@ -8,7 +8,7 @@ My solutions to the [Advent of Code 2020](https://adventofcode.com/2020) problem
 | [Day 02: Password Philosophy](./02/)    | Javascript | ⭐🌟 |
 | [Day 03: Toboggan Trajectory](./03/)    | Lua        | ⭐🌟 |
 | [Day 04: Passport Processing](./04/)    | Golang     | ⭐🌟 |
-| Day 05: ...                             | ...        | ...  |
+| [Day 05: Binary Boarding](./05/)        | Javacript  | ⭐🌟 |
 | Day 06: ...                             | ...        | ...  |
 | Day 07: ...                             | ...        | ...  |
 | Day 08: ...                             | ...        | ...  |
