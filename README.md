@@ -9,7 +9,7 @@ My solutions to the [Advent of Code 2020](https://adventofcode.com/2020) problem
 | [Day 03: Toboggan Trajectory](./03/)    | Lua        | ⭐🌟 |
 | [Day 04: Passport Processing](./04/)    | Golang     | ⭐🌟 |
 | [Day 05: Binary Boarding](./05/)        | Javacript  | ⭐🌟 |
-| Day 06: ...                             | ...        | ...  |
+| [Day 06: Custom Customs](./06/)         | PHP        | ⭐🌟 |
 | Day 07: ...                             | ...        | ...  |
 | Day 08: ...                             | ...        | ...  |
 | Day 09: ...                             | ...        | ...  |
