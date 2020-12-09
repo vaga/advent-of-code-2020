@@ -12,7 +12,7 @@ My solutions to the [Advent of Code 2020](https://adventofcode.com/2020) problem
 | [Day 06: Custom Customs](./06/)         | PHP        | ⭐🌟 |
 | [Day 07: Handy Haversacks](./07/)       | Golang     | ⭐🌟 |
 | [Day 08: Handheld Halting](./08/)       | Javascript | ⭐🌟 |
-| Day 09: ...                             | ...        | ...  |
+| [Day 09: Encoding Error](./09/)         | Rust       | ⭐🌟 |
 | Day 10: ...                             | ...        | ...  |
 | Day 11: ...                             | ...        | ...  |
 | Day 12: ...                             | ...        | ...  |
