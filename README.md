@@ -14,7 +14,7 @@ My solutions to the [Advent of Code 2020](https://adventofcode.com/2020) problem
 | [Day 08: Handheld Halting](./08/)       | Javascript | ⭐🌟 |
 | [Day 09: Encoding Error](./09/)         | Rust       | ⭐🌟 |
 | [Day 10: Adapter Array](./10/)          | Javascript | ⭐🌟 |
-| Day 11: ...                             | ...        | ...  |
+| [Day 11: Seating System](./11/)         | Javascript | ⭐🌟 |
 | Day 12: ...                             | ...        | ...  |
 | Day 13: ...                             | ...        | ...  |
 | Day 14: ...                             | ...        | ...  |
