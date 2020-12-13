@@ -16,7 +16,7 @@ My solutions to the [Advent of Code 2020](https://adventofcode.com/2020) problem
 | [Day 10: Adapter Array](./10/)          | Javascript | ⭐🌟 |
 | [Day 11: Seating System](./11/)         | Javascript | ⭐🌟 |
 | [Day 12: Rain Risk](./12/)              | Javascript | ⭐🌟 |
-| Day 13: ...                             | ...        | ...  |
+| [Day 13: Shuttle Search](./13/)         | Javascript | ⭐🌟 |
 | Day 14: ...                             | ...        | ...  |
 | Day 15: ...                             | ...        | ...  |
 | Day 16: ...                             | ...        | ...  |
